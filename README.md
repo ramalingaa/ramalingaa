@@ -26,6 +26,7 @@
 <li>
   <a href="https://codefree.hashnode.dev/short-circuiting-in-or-operator"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Understanding Short Circuit</b></a><br/><i>Know more about falsy and truthy values in JS</i>
 </li>
+<img src = "https://github-readme-stats.vercel.app/api?username=ramalingaa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/ramalingaa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
