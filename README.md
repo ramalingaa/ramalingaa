@@ -14,6 +14,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Prettier" src="[https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white](https://img.shields.io/badge/-python-45b8d8?style=flat-square&logo=python&logoColor=yellow)" />
   
 </p>
 <h3>My latest posts</h3>
